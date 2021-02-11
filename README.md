@@ -2,7 +2,7 @@
 
 This is an open source project built to help lambda students apply their skills on a real project no matter what unit they are in.
 
-[Learn more about the project in the project wiki](https://github.com/LambdaCRM/client/wiki).
+[Visit the live site](https://client-fawn.vercel.app/).
 
 ## Installation
 
