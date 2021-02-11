@@ -12,6 +12,8 @@ React has been designed for gradual adoption from the start, and **you can use a
 
 `npm start`
 
+Go to `http://localhost:4000`
+
 ## Documentation
 
 You can improve it by sending pull requests to [this repository](https://github.com/LambdaCRM/client).
